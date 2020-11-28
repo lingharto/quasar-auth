@@ -1,0 +1,72 @@
+{
+  "_from": "@mspiderv/vuejwtauth",
+  "_id": "@mspiderv/vuejwtauth@1.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-THybV9j9bWMaW0FToW6VPxFMpJyjORXJhIGj5x/VVt+EYxUlLGTWiUVidoP4++i/P81araSdMd+iJmc26vM0Iw==",
+  "_location": "/@mspiderv/vuejwtauth",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@mspiderv/vuejwtauth",
+    "name": "@mspiderv/vuejwtauth",
+    "escapedName": "@mspiderv%2fvuejwtauth",
+    "scope": "@mspiderv",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@mspiderv/vuejwtauth/-/vuejwtauth-1.2.2.tgz",
+  "_shasum": "f5e7847cf4af426c105a549883d382c6ab7eb833",
+  "_spec": "@mspiderv/vuejwtauth",
+  "_where": "/home/evgenyev/projects/ling_platform/data/www/frontend-admin",
+  "author": {
+    "name": "Matej Vitaz",
+    "email": "mspiderv@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mspiderv/vuejwtauth/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "browser-cookies": "^1.2.0",
+    "deepmerge": "^3.2.0",
+    "eventemitter2": "^5.0.1",
+    "jwt-decode": "^2.2.0",
+    "vuex": "^3.1.1"
+  },
+  "deprecated": false,
+  "description": "JWT auth library for Vue.js applications",
+  "devDependencies": {
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0"
+  },
+  "homepage": "https://github.com/mspiderv/vuejwtauth#readme",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vuex",
+    "jwt",
+    "auth"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "@mspiderv/vuejwtauth",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mspiderv/vuejwtauth.git"
+  },
+  "scripts": {
+    "lint": "eslint --ext .js src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.2"
+}
