@@ -1,0 +1,19 @@
+{
+  "name": "quasar-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vuejwtauth/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingharto/quasar-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lingharto/quasar-auth/issues"
+  },
+  "homepage": "https://github.com/lingharto/quasar-auth#readme"
+}
